@@ -58,3 +58,8 @@ main{
   text-indent: 5px;
   font-size: 18px;
 }
+
+.meme--image {
+  max-width: 100%;
+  margin-top: 10px;
+}
